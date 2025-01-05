@@ -9,3 +9,4 @@ AllowAllParametersOfDeclarationOnNextLine: true
 MaxEmptyLinesToKeep: 1
 SortIncludes: true
 KeepEmptyLinesAtTheStartOfBlocks: false
+AllowShortIfStatementsOnASingleLine: true
